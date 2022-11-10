@@ -1,0 +1,25 @@
+{
+  "name": "chat-socket-js",
+  "version": "1.0.0",
+  "description": "E um sistema de chat simples utilizando socket io com node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "chat",
+    "nodejs",
+    "socket.io",
+    "js"
+  ],
+  "author": "Eduardo G. Libindo",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "socket.io": "^4.5.3"
+  }
+}
